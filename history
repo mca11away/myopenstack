@@ -562,3 +562,52 @@
   562  git config --list
   563  git init
   564  history > history
+  565  git status
+  566  git add history
+  567  git add nova.*
+  568  git status
+  569  git add nova.list
+  570  git add nova-list
+  571  git status
+  572  [root@controller myopenstack(keystone_chester)]#
+  573  git commit -m 'I am gonna be a DEVOPS!'
+  574  ls -a
+  575  ls -la
+  576  cp nova.conf novabu.conf
+  577  ls -la
+  578  vim nova.conf
+  579  wd
+  580  pwd
+  581  ls -la
+  582  rm novabu.conf
+  583  cd
+  584  pwd
+  585  cd /etc/nova
+  586  ls -la
+  587  cp nova.conf
+  588  cp nova.conf novabu.conf
+  589  ls -la
+  590  vim nova.conf
+  591  more nova.conf | grep vnc
+  592  curl ipecho.net/plain
+  593  nova list
+  594  vim nova.conf
+  595  more nova.conf | grep vnc
+  596  vim nova.conf
+  597  more nova.conf | grep vnc
+  598  vim nova.conf
+  599  more nova.conf | grep vnc
+  600  nova list
+  601  ls -la
+  602  pwd
+  603  cd
+  604  ls 
+  605  git status
+  606  cd myopenstack
+  607  git status
+  608  yum install git
+  609  git config --global user.name "--- Marcus ---"
+  610  git config --global user.email "--- mcallaway1@bellsouth.net ---"
+  611  git config --list
+  612  git init
+  613  history > history
